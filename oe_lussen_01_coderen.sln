@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oe_lussen_01_coderen.wpf", "oe_lussen_01_coderen.wpf\oe_lussen_01_coderen.wpf.csproj", "{75AAF321-59BB-4739-8455-FCB713B22735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75AAF321-59BB-4739-8455-FCB713B22735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AAF321-59BB-4739-8455-FCB713B22735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AAF321-59BB-4739-8455-FCB713B22735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AAF321-59BB-4739-8455-FCB713B22735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204F2CF8-7651-4156-A590-1342E8476EBA}
+	EndGlobalSection
+EndGlobal
